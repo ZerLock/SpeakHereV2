@@ -21,7 +21,7 @@
 
     <!-- Bouton pour rafraichir la page pour afficher tous les autres messages ! -->
     <form class="box" action="index4-1.php" method="post">
-        <input type="submit" value="Rafraîchir la page" />
+        <input type="submit" value="Rafraîchir la page pour voir les nouveaux messages" />
     </form>
 
 <?php

@@ -28,9 +28,6 @@ if(session_destroy()){
 	<body>
 		<header> <!-- Des informations sur la page et sur l'inscription -->
 			<p id="acces">C'est ici que vous devez passer pour acceder aux serveurs SpeakHere !</p>
-			<p id="infoSup">ATTENTION :<br />
-			Vous n'êtes toujours pas obligé de renseigner votre numéro de téléphone,<br />
-			mais il ce peut que cela le divienne un jour ou l'autre !</p>
 		</header><br />
 
 		<section> <!-- Le champ d'inscription -->

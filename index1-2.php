@@ -35,6 +35,13 @@
         <li>Il est interdit et je le répète d'usurper l'identité d'une personne. Personne sur ce site ne peut se faire passer pour une autre !</li>
         <li>Vous ne deverez pas supprimer les cookies que le Site Web sauvegarde sur votre PC. Nos cookies sont un réel avantage pour vous car vous n'aurez pas<br />
             besoin de vous reconnecter à chaque fois que vous changer de page sur le Site. Vous pourrez donc naviguer sur le site sans aucun sousis !</li>
+        <li>Les messages que vous vous envoyez chaque jours sur le site sont stockés dans une base de donnée pour pouvoir les renvoyer sur le site. Mais, <br />
+        n'ayez pas d'inquitude car tous ses messages sont supprimés tous les mois et nous ne gardons en aucun moments des copies de la bse de donnée !</li>
+        <li>Pour pouvoir voir les nouveaux messages, il faudra actualiser la page en appuiant sur le bouton 'actualiser la page' !</li>
+        <li>au tout début de la sortie, il est conseillé de respecter les règles imposées par le site (conditions d'utilisation). Si l'un administrateur<br />
+        parvient à voir que vous n'appliquez pas ces règles. Il pourra vous donner des sanctions !</li>
+        <li>Toutes les pages contenant du code qui serait susceptible de contenir du contenu qui pourrait vous aidez à 'hacker' le site ont étées cryptées<br />
+          et pour avoir accès aux bases de données du site, il faudra réussir à avoir le code d'accès d'une centaine de caractère qui a été généré aléatoirement<br/>Mais sachez qu'on parviendra à vous trouver avant que ceci soit fait !</li>
       </ul>
 
       <footer>
