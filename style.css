@@ -1,0 +1,22 @@
+body
+{
+	background-color: #34495e;
+	color: #191919;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h2
+{
+	text-decoration: underline;
+}
+
+.lien:hover
+{
+	color: #c0392b;
+}
+
+a
+{
+	color: #16a085;
+}

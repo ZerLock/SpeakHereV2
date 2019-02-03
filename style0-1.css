@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #34495e;
+  font-family: sans-serif;
+  text-align: center;
+  color: #191919;
+}
+
+#deconnection
+{
+	border: 0;
+	background: none;
+	display: block;
+	margin: 15px auto;
+	text-align: center;
+	border: 2px solid #2ecc71;
+	padding: 14px 40px;
+	outline: none;
+	color: white;
+	border-radius: 24px;
+	transition: 0.25s;
+	cursor: pointer;
+}
+
+#deconnection:hover
+{
+	background: #2ecc71;
+}
+
+#quitter{
+  border: 0;
+  background: none;
+  display: block;
+  margin: 15px auto;
+  text-align: center;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+
+#quitter:hover{
+  background: #2ecc71;
+}
