@@ -24,16 +24,17 @@ form{
 	display: block;
 	margin: 10px auto;
 	text-align: center;
-	border: 1px solid #3498db;
+	border: 1px solid #2ecc71;
 	padding: 9px 5px;
 	width: 150px;
 	outline: none;
 	color: white;
 	border-radius: 24px;
   transition: 0.25s;
+  cursor: pointer;
 }
 
-#compte:hover{
+#Compte:hover{
   background: #2ecc71;
 }
 
