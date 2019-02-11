@@ -23,6 +23,11 @@ if(session_destroy()){
 		<title>SpeakHereV2</title>
 		<link rel="stylesheet" href="style2.css" />
 		<link rel="icon" type="image/png" href="images/Logo.png" />
+		<script>
+			alert('Pour le confore de nos utilisateurs, nous utilisons des cookies pour pouvoir grader en memoire votre pseudo et autre pour vous faire eviter\nde vous reconnecter a chaque fois que vous changez de page !\nMerci de votre comprehension !');
+
+
+		</script>
 	</head>
 
 	<body>
