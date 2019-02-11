@@ -18,6 +18,24 @@ form{
   margin-left: -1200px;
 }
 
+.haplaunux
+{
+  width: 275px;
+  height: 275px;
+  display: flex;
+  margin-top: -38%;
+  margin-left: 55%;
+}
+
+.hemogoneJ
+{
+  width: 275px;
+  height: 275px;
+  display: flex;
+  /*margin-top: -7%;*/
+  margin-left: 52.5%;
+}
+
 #Compte{
   border: 0;
 	background: none;
@@ -60,6 +78,7 @@ a{
   font-size: 1.15em;
 }
 
-footer{
-  margin-top: -25px;
+#attention
+{
+  margin-top: -25%;
 }

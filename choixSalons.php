@@ -52,6 +52,13 @@ ini_set('display_errors','off');
       </article>
     </section>
 
+    <section>
+      <div class="pub">
+        <a href="https://discord.gg/V8HdePM" class="haplaunux" target="_blank"><img src="images/logoHaplaunux2.png"></a>
+        <a href="https://hemogonej.damonmolina.com/" class="hemogoneJ" target="_blank"><img src="images/LogoHemogoneJ2.png"></a>
+      </div>
+    </section>
+
     <footer>
       <!-- Phrase d'avertissement : -->
       <p><em id="attention">ATTENTION</em> : Ces salons ne sont pas fait pour les règlements de compte ou un endroit
