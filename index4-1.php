@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Mini-chat</title>
+        <title>SpeakHereV2</title>
         <link rel="stylesheet" href="style4.css" />
         <link rel="icon" type="image/png" href="images/Logo.png" />
     </head>
